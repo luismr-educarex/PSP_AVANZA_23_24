@@ -14,7 +14,7 @@ public class Main {
      */
     public static void main(String[] args) {
         // Lo único que hacemos es escribir los números de 0 a 9 en
-        // la salida estándar del proceso
+        // la salida estándar del proceso que es la consola del IDE o del sistema
         for (int i=0; i<10; i++)
             System.out.println(i);
     }
