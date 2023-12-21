@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package unidad1.entregas.caballero_nunez_rosa;
+package unidad1.entregas.caballero_nunez_rosa.tarea1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
